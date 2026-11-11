@@ -1,4 +1,4 @@
-# TaskPilot 🚀
+# TaskPilot
 
 **A simple tool-using AI agent that understands user instructions, plans tasks, and executes actions using available tools.**
 
